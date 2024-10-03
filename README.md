@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Daisy
+- 🌱 I’m currently learning Cognative Neuroscience and Neuroimaging
+- 📫 drusdale1@sheffield.ac.uk
